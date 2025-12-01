@@ -1,5 +1,3 @@
-## Hello there! 👋
-
 <!--
 **Napur0/Napur0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,9 +10,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+## Hello there! 👋
+
 I'm a bachlor's student from Germany.
 
+
 I like to learn, try out and build new and interesting things.
+
 I am currently leaning into cyber security with focus on Web- and Networksecurity, looking for the subject that is fun and suits me best. :)
+
 
 If your looking for repos here, you're probably at the wrong place since they will be generally private.
